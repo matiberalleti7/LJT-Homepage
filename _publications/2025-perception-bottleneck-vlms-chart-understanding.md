@@ -1,0 +1,19 @@
+---
+title: "On the Perception Bottleneck of VLMs for Chart Understanding"
+collection: publications
+category: preprints
+permalink: /publication/perception-bottleneck-vlms-chart-understanding-2025
+excerpt: 'arXiv preprint, 2025'
+date: 2025-01-01
+venue: 'arXiv'
+paperurl: ''
+citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). &quot;On the Perception Bottleneck of VLMs for Chart Understanding.&quot; <i>arXiv</i>.'
+---
+
+**Authors:** Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
+
+**Venue:** arXiv preprint, 2025
+
+**Author position:** First author
+
+The code repository (Vision4Chart) is available on GitHub.
